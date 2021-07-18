@@ -1,0 +1,28 @@
+
+GET  http://localhost:8000/api/partners HTTP/1.1
+content-type: application/json
+
+# {
+#     "name":"nguyenquan",
+#     "email":"nguyenquanshinobi@gmail.com",
+#     "password":"1111",
+#     "address":"dfđfdfd",
+#     "phone":"11",
+#     "repassword":"1111",
+#     "id":1
+# }
+
+###
+POST  http://localhost:8000/api/content HTTP/1.1
+content-type: application/json
+
+# {
+#     "name":"nguyenquan",
+#     "email":"nguyenquanshinobi@gmail.com",
+#     "password":"1111",
+#     "address":"dfđfdfd",
+#     "phone":"11",
+#     "repassword":"1111",
+#     "id":1
+# }
+
